@@ -1,8 +1,8 @@
-# LIO-Core
+# Interpolation
 
-[![](https://jitpack.io/v/iamniklas/LIO-Core.svg)](https://jitpack.io/#iamniklas/LIO-Core)
+[![](https://jitpack.io/v/iamniklas/interpolation.svg)](https://jitpack.io/#iamniklas/interpolation)
 
-[https://jitpack.io/#iamniklas/LIO-Core](https://jitpack.io/#iamniklas/LIO-Core)
+[https://jitpack.io/#iamniklas/interpolation](https://jitpack.io/#iamniklas/interpolation)
 
 To install the library add: 
  
@@ -12,7 +12,7 @@ To install the library add:
         maven { url "https://jitpack.io" }
    }
    dependencies {
-         implementation 'com.github.iamniklas:LIO-Core:[VERSION]'
+         implementation 'com.github.iamniklas:interpolation:[VERSION]'
    }
    ```  
 
