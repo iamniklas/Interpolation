@@ -4,6 +4,7 @@
 
 [https://jitpack.io/#iamniklas/interpolation](https://jitpack.io/#iamniklas/interpolation)
 
+Gradle
 To install the library add: 
  
    ```gradle
