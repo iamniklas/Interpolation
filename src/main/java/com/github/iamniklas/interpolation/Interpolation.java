@@ -14,30 +14,39 @@ public class Interpolation {
             case EaseInSine: return easeInSine(_value);
             case EaseOutSine: return easeOutSine(_value);
             case EaseInOutSine: return easeInOutSine(_value);
+
             case EaseInQuad: return easeInQuad(_value);
             case EaseOutQuad: return easeOutQuad(_value);
             case EaseInOutQuad: return easeInOutQuad(_value);
+
             case EaseInCubic: return easeInCubic(_value);
             case EaseOutCubic: return easeOutCubic(_value);
             case EaseInOutCubic: return easeInOutCubic(_value);
+
             case EaseInQuart: return easeInQuart(_value);
             case EaseOutQuart: return easeOutQuart(_value);
             case EaseInOutQuart: return easeInOutQuart(_value);
+
             case EaseInQuint: return easeInQuint(_value);
             case EaseOutQuint: return easeOutQuint(_value);
             case EaseInOutQuint: return easeInOutQuint(_value);
+
             case EaseInExpo: return easeInExpo(_value);
             case EaseOutExpo: return easeOutExpo(_value);
             case EaseInOutExpo: return easeInOutExpo(_value);
+
             case EaseInCirc: return easeInCirc(_value);
             case EaseOutCirc: return easeOutCirc(_value);
             case EaseInOutCirc: return easeInOutCirc(_value);
+
             case EaseInBack: return easeInBack(_value);
             case EaseOutBack: return easeOutBack(_value);
             case EaseInOutBack: return easeInOutBack(_value);
+
             case EaseInElastic: return easeInElastic(_value);
             case EaseOutElastic: return easeOutElastic(_value);
             case EaseInOutElastic: return easeInOutElastic(_value);
+
             case EaseInBounce: return easeInBounce(_value);
             case EaseOutBounce: return easeOutBounce(_value);
             case EaseInOutBounce: return easeInOutBounce(_value);
